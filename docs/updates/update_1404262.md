@@ -1,0 +1,2 @@
+- **What:** Updated the import statement for `ReactDOM` to use `react-dom/client`.
+- **Why:** React 18 requires importing `ReactDOM` from `react-dom/client` to use the new `createRoot` API. This change ensures compatibility with React 18 and enables the use of its new features.
