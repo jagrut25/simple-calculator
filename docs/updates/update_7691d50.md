@@ -1,0 +1,2 @@
+- **What:** Updated the `export` statement for the `App` component in `src/App.js`.
+- **Why:** This change ensures that the `App` component is correctly exported, which is essential for it to be used in other parts of the application. This fixes a potential issue where the component might not be accessible due to an incorrect export statement.
