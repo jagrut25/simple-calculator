@@ -1,4 +1,4 @@
-import ReactDOM from 'react-dom/client';
+import ReactDOM from 
 import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
